@@ -1,0 +1,10 @@
+C:\Users\Semen\source\repos\Converting-To-Black-And-White\Converting-To-Black-And-White\bin\Debug\Converting-To-Black-And-White.exe.config
+C:\Users\Semen\source\repos\Converting-To-Black-And-White\Converting-To-Black-And-White\bin\Debug\Converting-To-Black-And-White.exe
+C:\Users\Semen\source\repos\Converting-To-Black-And-White\Converting-To-Black-And-White\bin\Debug\Converting-To-Black-And-White.pdb
+C:\Users\Semen\source\repos\Converting-To-Black-And-White\Converting-To-Black-And-White\obj\Debug\Converting-To-Black-And-White.csprojAssemblyReference.cache
+C:\Users\Semen\source\repos\Converting-To-Black-And-White\Converting-To-Black-And-White\obj\Debug\Converting_To_Black_And_White.ConvertingToBlackAndWhite.resources
+C:\Users\Semen\source\repos\Converting-To-Black-And-White\Converting-To-Black-And-White\obj\Debug\Converting_To_Black_And_White.Properties.Resources.resources
+C:\Users\Semen\source\repos\Converting-To-Black-And-White\Converting-To-Black-And-White\obj\Debug\Converting-To-Black-And-White.csproj.GenerateResource.cache
+C:\Users\Semen\source\repos\Converting-To-Black-And-White\Converting-To-Black-And-White\obj\Debug\Converting-To-Black-And-White.csproj.CoreCompileInputs.cache
+C:\Users\Semen\source\repos\Converting-To-Black-And-White\Converting-To-Black-And-White\obj\Debug\Converting-To-Black-And-White.exe
+C:\Users\Semen\source\repos\Converting-To-Black-And-White\Converting-To-Black-And-White\obj\Debug\Converting-To-Black-And-White.pdb
